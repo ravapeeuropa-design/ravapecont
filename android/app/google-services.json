@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201288342204",
+    "project_id": "ravapecont",
+    "storage_bucket": "ravapecont.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201288342204:android:b934f588695bcbc6558eb9",
+        "android_client_info": {
+          "package_name": "com.example.ravapecont"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201288342204-25fasr7sg6tre7rc5tkii3kuvtg7183d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvnE0ew8S8R09m5bFkgOaxfgH-wG_r0GQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201288342204-25fasr7sg6tre7rc5tkii3kuvtg7183d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
